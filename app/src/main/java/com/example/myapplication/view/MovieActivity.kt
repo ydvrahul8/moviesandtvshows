@@ -37,6 +37,7 @@ class MovieActivity : AppCompatActivity(), View.OnClickListener {
     private var toolbar: Toolbar? = null
     private var results: Trending.Results? = null
     private var movie: Movie? = null
+
     private var recyclerView: RecyclerView? = null
     private var runTime: TextView? = null
     private var linearLayoutGenres: LinearLayout? = null
