@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviesAndTVShows</string>
+    <string name="trending_movies">Trending Movies</string>
+    <string name="trending_tvshows">Trending TV Shows</string>
+    <string name="geners">Geners</string>
+    <string name="loading">Loading...</string>
+    <string name="description">Description</string>
+    <string name="Watch_on">Watch on</string>
+</resources>
